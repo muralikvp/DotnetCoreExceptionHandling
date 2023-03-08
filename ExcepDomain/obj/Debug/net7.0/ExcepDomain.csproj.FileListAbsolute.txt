@@ -1,0 +1,12 @@
+/home/murali/Documents/dotnet/Exception/ExcepDomain/bin/Debug/net7.0/ExcepDomain.deps.json
+/home/murali/Documents/dotnet/Exception/ExcepDomain/bin/Debug/net7.0/ExcepDomain.dll
+/home/murali/Documents/dotnet/Exception/ExcepDomain/bin/Debug/net7.0/ExcepDomain.pdb
+/home/murali/Documents/dotnet/Exception/ExcepDomain/obj/Debug/net7.0/ExcepDomain.csproj.AssemblyReference.cache
+/home/murali/Documents/dotnet/Exception/ExcepDomain/obj/Debug/net7.0/ExcepDomain.GeneratedMSBuildEditorConfig.editorconfig
+/home/murali/Documents/dotnet/Exception/ExcepDomain/obj/Debug/net7.0/ExcepDomain.AssemblyInfoInputs.cache
+/home/murali/Documents/dotnet/Exception/ExcepDomain/obj/Debug/net7.0/ExcepDomain.AssemblyInfo.cs
+/home/murali/Documents/dotnet/Exception/ExcepDomain/obj/Debug/net7.0/ExcepDomain.csproj.CoreCompileInputs.cache
+/home/murali/Documents/dotnet/Exception/ExcepDomain/obj/Debug/net7.0/ExcepDomain.dll
+/home/murali/Documents/dotnet/Exception/ExcepDomain/obj/Debug/net7.0/refint/ExcepDomain.dll
+/home/murali/Documents/dotnet/Exception/ExcepDomain/obj/Debug/net7.0/ExcepDomain.pdb
+/home/murali/Documents/dotnet/Exception/ExcepDomain/obj/Debug/net7.0/ref/ExcepDomain.dll
